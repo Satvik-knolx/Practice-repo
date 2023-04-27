@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33cf99d7-723d-4dbc-87fe-08fd962cd767" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/AArray.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/CBNCBV.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/COnditionalStatements.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Curried.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/EducativePractice.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/FunctionsClass.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/HOF.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/LazyLists.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/PatternMatchClass.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Person.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Practice.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Recursive.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Vectors.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/BinarySearchTree.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/untitled.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/CBNvsCBV.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Expressions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Functions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Recursion.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/JavaPlayground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/ScalaPlayground.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2OYDpqyzYYowsJNhkAVijVA41I5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/knoldus/Session-Six/UT-IT&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="AArray" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.educativePractices.AArray" />
+      <module name="Rock-JVM-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.educativePractices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Curried" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.educativePractices.Curried" />
+      <module name="Rock-JVM-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.educativePractices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LazyLists" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.educativePractices.LazyLists" />
+      <module name="Rock-JVM-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.educativePractices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="Rock-JVM-Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="practice" />
+      <module name="Rock-JVM-Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.practice" />
+        <item itemvalue="Application.LazyLists" />
+        <item itemvalue="Application.AArray" />
+        <item itemvalue="Application.Curried" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33cf99d7-723d-4dbc-87fe-08fd962cd767" name="Changes" comment="" />
+      <created>1681728810287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681728810287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -4,6 +4,7 @@ package educativePractices
 
 import scala.io.StdIn.readInt
 
+
 object Practice extends App {
   private val aList = List(1, 2, 3, 4, 5)
   private val indexToRemoveElement: Int = readInt()

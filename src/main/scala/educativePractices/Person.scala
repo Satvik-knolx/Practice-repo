@@ -1,11 +1,23 @@
 package com.knoldus
 package educativePractices
 
-class Person(var name:String,var age:Int,var gender: String) {
+case class Person(name: String, age: Int)
 
-  private var years = 15
-  private def talking = println(s"$name is talking")
-  private val personobj = new Person("satvik", 25,"male")
-  println(personobj)
-  personobj.talking
+object Student extends App {
+
+
+  private val objOne = Person("Satvik", 25)
+  private val objTwo = objOne.copy("Vanshika")
+
+  private def studentDetail(person: Person): String = {
+    person match {
+      case Person(name, age) => s"Name of student is $name and $age years old"
+      case _ => "Student detail doesn't exist"
+    }
+  }
+  println(studentDetail(objOne))
+  println(studentDetail(objTwo))
+  println( objOne.equals(objTwo))
+  println(Person.unapply(objOne))
 }
+

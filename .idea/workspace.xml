@@ -5,41 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33cf99d7-723d-4dbc-87fe-08fd962cd767" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/AArray.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/CBNCBV.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/COnditionalStatements.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Curried.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/EducativePractice.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/FunctionsClass.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/HOF.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/LazyLists.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/PatternMatchClass.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Person.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Practice.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Recursive.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Vectors.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/BinarySearchTree.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/Main.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/untitled.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/CBNvsCBV.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Expressions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Functions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Recursion.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/JavaPlayground.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/ScalaPlayground.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CaseClassImpl/CaseClassImpl.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CaseClassImpl/HigherOrderFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CaseClassImpl/UnapplyMethod.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PracticeFromDoc/MatchExpression.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Scala-Ninety-Nine/p04.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Scala99/MatrixMultiplication.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Scala99/QuestionPartOne.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Scala99/SwapValues.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/COL.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/CreateUnapply.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/FilterDuplicates.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/ListOfList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/ListPrime.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Palindrome.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/OOBasics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/String.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/StringOps.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part2oops/MethodNotations.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part2oops/OOBasics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba5eebabef0f7b89580c912372c0d71be5bedb31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3d1be4193fb12aad80530c1fe9d2d6598b1fd25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2e689db94b90595766aa23fb46b5ca8cdc20b18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/a/ba5eebabef0f7b89580c912372c0d71be5bedb31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/3/e3d1be4193fb12aad80530c1fe9d2d6598b1fd25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/2/f2e689db94b90595766aa23fb46b5ca8cdc20b18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/educativePractices/Person.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Person.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/educativePractices/Practice.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/educativePractices/Practice.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +52,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Package Object" />
         <option value="Scala Worksheet" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalanlp/breeze_2.13/1.2/breeze_2.13-1.2-sources.jar!/breeze/linalg/DenseMatrix.scala" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -83,17 +83,17 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;new&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/knoldus/Session-Six/UT-IT&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="AArray" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.knoldus.educativePractices.AArray" />
+  <component name="RunManager" selected="Application.MethodNotations">
+    <configuration name="MethodNotations" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.lectures.part2oops.MethodNotations" />
       <module name="Rock-JVM-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.knoldus.educativePractices.*" />
+          <option name="PATTERN" value="com.knoldus.lectures.part2oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Curried" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.knoldus.educativePractices.Curried" />
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.lectures.part2oops.OOBasics" />
       <module name="Rock-JVM-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.knoldus.educativePractices.*" />
+          <option name="PATTERN" value="com.knoldus.lectures.part2oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LazyLists" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.knoldus.educativePractices.LazyLists" />
+    <configuration name="String" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.exercises.String" />
       <module name="Rock-JVM-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.knoldus.educativePractices.*" />
+          <option name="PATTERN" value="com.knoldus.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,27 +127,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Practice" />
+    <configuration name="StringOps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.lectures.part1basics.StringOps" />
       <module name="Rock-JVM-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="practice" />
+    <configuration name="com.knoldus.exercises.OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.exercises.OOBasics" />
       <module name="Rock-JVM-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="Application.practice" />
-        <item itemvalue="Application.LazyLists" />
-        <item itemvalue="Application.AArray" />
-        <item itemvalue="Application.Curried" />
+        <item itemvalue="Application.MethodNotations" />
+        <item itemvalue="Application.com.knoldus.exercises.OOBasics" />
+        <item itemvalue="Application.OOBasics" />
+        <item itemvalue="Application.String" />
+        <item itemvalue="Application.StringOps" />
       </list>
     </recent_temporary>
   </component>
